@@ -1,0 +1,11 @@
+.menu ul li{
+    float: left;
+    list-style-type: none;
+    width: 100px;
+}
+.menu ul li a{
+    text-decoration: none;
+}
+.menuphai{
+    float: left;
+}
